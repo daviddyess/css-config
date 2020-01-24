@@ -1,0 +1,22 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.o$
+<html>
+<head>
+<title>Moody Crew</title>
+<style type="text/css">
+body {background:#ffffff; margin-left:8px; margin-top:0px;}
+a {text-decoration: underline;}
+</style>
+</head>
+<body scroll="no">
+<h1>Moody Crew Counter-Strike: Source</h1>
+This is a family server, keep it clean or you will be removed. If you mouth off$
+<h2>Map Pack</h2>
+We have several custom maps, they can take quite a while to download. If you wa$
+<p><a href="https://github.com/daviddyess/docker-steam-css/tree/master/maps">ht$
+<h2>Docker Container</h2>
+If you are interested in using or contributing to our Docker Container we are r$
+<p><a href="https://hub.docker.com/r/ddyess/css-server">https://hub.docker.com/$
+The GitHub repository can be found here:
+<p><a href="https://github.com/daviddyess/docker-steam-css">https://github.com/$
+</body>
+</html>
